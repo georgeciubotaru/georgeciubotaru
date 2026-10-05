@@ -2,7 +2,7 @@
 
 **Fullstack engineer** · TypeScript / React / Svelte · Node.js / Go / Python · data pipelines & cloud (AWS / GCP)
 
-I've spent 8+ years owning production systems end-to-end, from database schema to shipped UI. Based in Chișinău, working remotely.
+I've spent 9+ years owning production systems end-to-end, from database schema to shipped UI. EU citizen, no sponsorship needed, based in Chisinau, Moldova (Remote).
 
 > **Why this profile looks quiet:** almost everything I build lives in private employer and client repositories. The public repos here are small experiments and package tests. The work below is the real record, and I'm glad to walk through any of it in detail.
 
